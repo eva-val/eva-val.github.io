@@ -8,11 +8,16 @@ permalink: /resume/
 
 {% for job in site.data.resume %}
 <div>
-    <h1>{{ job.title }}</h1>
-    <strong>{{ job.employer }}</strong> {{ job.startdate }} - {{ job.enddate }} <br>
+    <h1 style="text-align:center;">{{ job.title }}</h1>
+    {{ job.employer }}<br>
+    <small>{{ job.startdate }} - {{ job.enddate }}</small><br>
+    Skills:<br>
     {% for skill in job.skills %}
-        | {{ skill }}
-    {% endfor %} |
+        {% if skill != job.skills.first -%}
+            |
+        {% endif %} 
+        {{ skill }}
+    {% endfor %}
     <br>
     <ul>
     {% for item in job.description %}

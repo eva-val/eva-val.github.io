@@ -4,6 +4,7 @@ title: Pgp
 permalink: /pgp/
 ---
 <br>
+<pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 xjMEYz4nRxYJKwYBBAHaRw8BAQdAGcwQIynDE9YnkG5JT5vrKEE5M3z/K8rY
@@ -18,3 +19,4 @@ DZ1YwpT/ZtkBAKMGlACsQsByOWg75tWne4+aHF0ENEME7IUU9l/8hNbBAP0Z
 6cE674LKj/eTFH2QfyDbMHFY2lkFxAoRZE++XSQqCw==
 =6FFS
 -----END PGP PUBLIC KEY BLOCK-----
+</pre>
