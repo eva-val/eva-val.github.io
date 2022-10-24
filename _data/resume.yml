@@ -1,0 +1,76 @@
+- title: Systems Administrator 2
+  employer: Caterpillar INC
+  startdate: 03-2022
+  enddate: 
+  skills:
+  - Azure Active Directory
+  - Disaster Recovery
+  - IT Operations
+  - Linux
+  - Microsoft Forms
+  - Microsoft Power Apps
+  - Microsoft Power Automate
+  - Microsoft Power BI
+  - Microsoft Power Query
+  - Microsoft SQL Server
+  - Powershell
+  - SharePoint
+  - Soti MobiControl
+  description:
+  - Provided global PowerApps development, rollout and L3 support on internal Digital
+    Continuous Improvement app replacing previous hand written system
+  - Provided on site L2 & L3 support for factory floor applications, Windows desktops, PLCs,
+    robotics, PowerBI signage, and andons
+  - Mobile device administration of Android tablets, Zebra printers, and Zebra scanners through
+    Soti MobiControl
+  - Assisted in reducing overall cybersecurity risk of networked factory equipment operations
+    using micro segmentation
+
+- title: Quality Systems Analyst
+  employer: Kohler Co
+  startdate: 01-2020
+  enddate: 03-2022
+  skills:
+  - Continuous Improvement
+  - IT Operations
+  - Lean Six Sigma
+  - Microsoft Forms
+  - Microsoft Power Apps
+  - Microsoft Power Automate
+  - Microsoft Power BI
+  - Microsoft Power Query
+  - Powershell
+  - Python
+  - SharePoint
+  description:
+  - Designed, Scoped, and Developed digital version of plants rejected parts system with hour
+    tracking and supplier chargeback saving hundreds of man hours and improving efficiency
+  - Designed, Scoped, and Developed automated document control system for internal quality
+    documents to ISO compliance with automated document submission, approval, and
+    reapproval.
+  - Designed, Scoped, and Developed faucet finish tracking system for Kohler powder coat finishes. 
+    - Tracks overall yield and yield by operator with scrap and rework management tied
+      into reject system
+    - System automatically pulls current job instructions from living documents eliminating
+      problems with stale/uncontrolled instructions
+    - Developed and implemented live view dashboard with live piece counts, yield, and
+      scrap cost updating in real time
+    - Worked with on floor leads to identify and document common misidentified parts and
+      helped create and tie operator alerting into system
+
+- title: IT Technician
+  employer: Stampede Transportation
+  startdate: 02-2016
+  enddate: 11-2016
+  skills:
+  - Data Backup Solutions
+  - Hardware
+  - IT Operations
+  - Linux
+  - Windows
+  - Windows Server
+  description:
+  - Handled Windows patch management in an enterprise environment
+  - Supported business operations with driver installation, software deployment, password resets, and other desktop support.
+  - Oversaw regular server maintenance and secure backups
+  - Demonstrated basic network security concepts to the business team
