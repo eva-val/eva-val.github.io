@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+<br>{{ site.description }}

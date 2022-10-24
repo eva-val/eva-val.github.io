@@ -1,0 +1,55 @@
+- title: Production Team Lead
+  type: Contract
+  startdate: 07-2013
+  enddate: 11-2016
+  salary: USD $9/hour
+  howileft: Quit
+  whyileft: Buisness failing.
+
+- title: IT Technician
+  type: Contract
+  startdate: 02-2016
+  enddate: 11-2016
+  salary: USD $25/hour
+  howileft: Walked out
+  whyileft: Bounced check
+
+- title: Commercial Vault Associate
+  type: FTE
+  startdate: 11-2016
+  enddate: 04-2017
+  salary: USD $11.5/hour
+  howileft: Promoted
+  whyileft: Promoted
+
+- title: Commercial Vault Associate II
+  type: FTE
+  startdate: 04-2017
+  enddate: 07-2019
+  salary: USD $15.2/hour
+  howileft: Promoted
+  whyileft: Promoted
+
+- title: Interdepartmental Manager
+  type: FTE
+  startdate: 07-2019
+  enddate: 01-2020
+  salary: USD $17.75/hour
+  howileft: Quit
+  whyileft: Good boss fired, old abusive one brought back. Went back into tech.
+
+- title: Quality Systems Analyst
+  type: Contract-to-hire (Never Hired)
+  startdate: 01-2020
+  enddate: 03-2022
+  salary: USD $30/hr
+  howileft: Quit
+  whyileft: Boss started using. FTE rugpull 2 weeks before contract end.
+
+- title: Systems Administrator 2
+  type: Contract
+  startdate: 03-2022
+  enddate: Soon
+  salary: USD $35/hr
+  howileft: 
+  whyileft: 
