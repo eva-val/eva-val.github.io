@@ -21,7 +21,15 @@ permalink: /resume/
     <br>
     <ul>
     {% for item in job.description %}
-    <li>{{ item }}</li>
+    {% if item.first %}
+        <ul><ul>
+        {% for subitem in item %}
+            <li>{{ subitem }}</li>
+        {% endfor %}
+        </ul></ul>
+    {% else %}
+        <li>{{ item }}</li>
+    {% endif %}
     {% endfor %}
     </ul>
 </div><br>
