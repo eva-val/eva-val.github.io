@@ -42,7 +42,7 @@
   type: Contract-to-hire (Never Hired)
   startdate: 01-2020
   enddate: 03-2022
-  salary: USD $30/hr
+  salary: USD $30/hour
   howileft: Quit
   whyileft: Boss started using. FTE rugpull 2 weeks before contract end.
 
@@ -50,6 +50,6 @@
   type: Contract
   startdate: 03-2022
   enddate: Soon
-  salary: USD $35/hr
+  salary: USD $35/hour
   howileft: 
   whyileft: 

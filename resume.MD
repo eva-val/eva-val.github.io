@@ -32,6 +32,5 @@ permalink: /resume/
     {% endif %}
     {% endfor %}
     </ul>
+    {% endfor %}
 </div><br>
-{% endfor %}
-
